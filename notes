@@ -1,3 +1,6 @@
 ~ SOLID:
 
-1. separation of concerns -> different class for a specific purposes;
+1. separation of concerns -> different class for a specific purposes (pesistance manager);
+2. open-closed principle -> mods are ok;
+3. liskov substitution principle -> derived class should be have the possibility to be substituted whereever a base class;
+4. Interface segragation -> not too much in one Interface;
