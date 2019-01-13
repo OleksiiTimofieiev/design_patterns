@@ -8,4 +8,4 @@
 ~ BUILDER;
 ~ FACTORY;
 ~ Absract factory;
-~ Prototype
+~ Prototype (good way to copy an instance)
