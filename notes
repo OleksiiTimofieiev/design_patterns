@@ -7,3 +7,5 @@
 
 ~ BUILDER;
 ~ FACTORY;
+~ Absract factory;
+~ Prototype
