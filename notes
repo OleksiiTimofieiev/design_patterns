@@ -9,3 +9,5 @@
 ~ FACTORY;
 ~ Absract factory;
 ~ Prototype (good way to copy an instance)
+~ Singleton
+~ Bridge (cool pimple pattern -> all secrets in cpp)
