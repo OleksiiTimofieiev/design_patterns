@@ -5,9 +5,12 @@
 3. liskov substitution principle -> derived class should be have the possibility to be substituted whereever a base class;
 4. Interface segragation -> not too much in one Interface;
 
-~ BUILDER;
-~ FACTORY;
-~ Absract factory;
-~ Prototype (good way to copy an instance)
-~ Singleton
-~ Bridge (cool pimple pattern -> all secrets in cpp)
+[creational] ~ BUILDER;
+[creational] ~ FACTORY;
+[creational] ~ Absract factory;
+[creational] ~ Prototype (good way to copy an instance)
+[creational] ~ Singleton
+
+[structural] ~ Adapter == adding the properties to the interface
+[structural] ~ Bridge (cool pimple pattern -> all secrets in cpp)
+[structural] ~ Composite == mechanism for treating individual (scalar) objects and compositions of objects in a uniform manner. Individual objects and collections behave in the same manner.
