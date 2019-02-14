@@ -16,3 +16,4 @@
 [structural] ~ Composite == mechanism for treating individual (scalar) objects and compositions of objects in a uniform manner. Individual objects and collections behave in the same manner.
 [structural] ~ Decorator (dynamic or static) == adding behavior without altering the class itself
 [structural] ~ Facade == encapsulation of the complex code
+[structural] ~ Flyweight == space optimization technique that lets use less memory by storing externally the data associated with similar objects
