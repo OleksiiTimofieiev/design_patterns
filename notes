@@ -15,3 +15,4 @@
 [structural] ~ Bridge (cool pimple pattern -> all secrets in cpp). Segregation of the functions
 [structural] ~ Composite == mechanism for treating individual (scalar) objects and compositions of objects in a uniform manner. Individual objects and collections behave in the same manner.
 [structural] ~ Decorator (dynamic or static) == adding behavior without altering the class itself
+[structural] ~ Facade == encapsulation of the complex code
