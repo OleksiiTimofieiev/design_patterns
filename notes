@@ -17,3 +17,5 @@
 [structural] ~ Decorator (dynamic or static) == adding behavior without altering the class itself
 [structural] ~ Facade == encapsulation of the complex code
 [structural] ~ Flyweight == space optimization technique that lets use less memory by storing externally the data associated with similar objects
+
+[behavioral] ~ Observer == checking events from the necessary object
