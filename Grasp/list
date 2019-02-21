@@ -6,3 +6,4 @@
 - polymorphism (process different variants * = new), kind of strategy i think
 - pure fabrication: (kind storage: database, for example)
 - indiraction (indiraction of the connection). To exclude direct dependency from the object => use of the interface; server implements interface, for example.
+- protected variations => be ready for changes: one part of the system doesn`t have effect on the other one;
