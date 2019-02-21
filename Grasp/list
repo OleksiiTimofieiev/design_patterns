@@ -4,4 +4,5 @@
 - low coupling (низкая связанность) (the moreconnection beetween projects, the better). Graph are no good. Easier to decompose the system.
 - high cohesion (высокое зацепление)
 - polymorphism (process different variants * = new), kind of strategy i think
-- 
+- pure fabrication: (kind storage: database, for example)
+- indiraction (indiraction of the connection). To exclude direct dependency from the object => use of the interface; server implements interface, for example.
