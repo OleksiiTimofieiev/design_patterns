@@ -1,0 +1,4 @@
+- information expert (class which is obligated to collect information)
+- creator (classes should be crated by one which needs them))
+- controller (special class for controlling operations, UI -> controller -> domain == save inner state and logic == sync procedure, etc.)
+- - 
