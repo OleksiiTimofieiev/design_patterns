@@ -2,4 +2,6 @@
 - creator (classes should be crated by one which needs them))
 - controller (special class for controlling operations, UI -> controller -> domain == save inner state and logic == sync procedure, etc.)
 - low coupling (низкая связанность) (the moreconnection beetween projects, the better). Graph are no good. Easier to decompose the system.
-- high cohesion (высокое зацепление)()
+- high cohesion (высокое зацепление)
+- polymorphism (process different variants * = new), kind of strategy i think
+- 
