@@ -1,0 +1,9 @@
++ == public method
+- == private method
+# == protected method
+~ == internal method
+
+-> == base class -> derived class
+--> == interface --> derived class
+--<empty> == can have some object or not
+--<filled> = must have some object
