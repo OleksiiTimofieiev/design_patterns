@@ -17,7 +17,10 @@
 [structural] ~ Decorator (dynamic or static) == adding behavior without altering the class itself
 [structural] ~ Facade == encapsulation of the complex code
 [structural] ~ Flyweight == space optimization technique that lets use less memory by storing externally the data associated with similar objects
+[structural] ~ Proxy == interface for accessing a particular resourse.
 
 [behavioral] ~ Observer == checking events from the necessary object
+[behavioral] ~ State == fun with finite state machine;
 [behavioral] ~ Strategy == decomposition of the algorith
 [behavioral] ~ TemplateMethod == define the sceleton of the algorithm, with concrete implementations defined in the subclassesm
+[behavioral] ~ Visitor == every single element will be having new feature; propagate through the whole inheritance tree;
