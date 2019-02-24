@@ -19,8 +19,11 @@
 [structural] ~ Flyweight == space optimization technique that lets use less memory by storing externally the data associated with similar objects
 [structural] ~ Proxy == interface for accessing a particular resourse.
 
+[behavioral] ~ Chain of responsibility == checking line of the circumstances;
 [behavioral] ~ Observer == checking events from the necessary object
-[behavioral] ~ Memento == system state storage
+[behavioral] ~ Command == asking for action;
+[behavioral] ~ Memento == system state storage;
+[behavioral] ~ Mediator == connector beetween components;
 [behavioral] ~ State == fun with finite state machine;
 [behavioral] ~ Strategy == decomposition of the algorith
 [behavioral] ~ TemplateMethod == define the sceleton of the algorithm, with concrete implementations defined in the subclassesm
