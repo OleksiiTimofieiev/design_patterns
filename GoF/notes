@@ -28,3 +28,5 @@
 [behavioral] ~ Strategy == decomposition of the algorith
 [behavioral] ~ TemplateMethod == define the sceleton of the algorithm, with concrete implementations defined in the subclassesm
 [behavioral] ~ Visitor == every single element will be having new feature; propagate through the whole inheritance tree;
+[behavioral] ~ Interpreter
+[behavioral] ~ Iterator
