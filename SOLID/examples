@@ -4,4 +4,6 @@
 
 - Dependency Inversion == use abstractions, not realizations;
 
-- Single Responsibility == one aim for the abstraction;
+- Single Responsibility == one reason for changes for the abstraction / class; (include interfaces to the class); fork and spoon instead of spoork;
+
+- Interface Segregation == separate interfaces for the needs of the client; class IEnemy: public -> I1, I2, I3, I4
