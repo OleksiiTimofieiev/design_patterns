@@ -1,6 +1,5 @@
 - Open Closed Principle == system is closed for modification, but open for extension; VSC and addons for example; mixer and instruments; provide mechanism for attachments;
 
+- Barbara Liskov Substitution == Logic and Visualisation should be in different classes for chess game, for example;
 
-
-
-- Dependency Inversion 
+- Dependency Inversion == use abstractions, not realizations;
