@@ -3,3 +3,5 @@
 - Barbara Liskov Substitution == Logic and Visualisation should be in different classes for chess game, for example;
 
 - Dependency Inversion == use abstractions, not realizations;
+
+- Single Responsibility == one aim for the abstraction;
